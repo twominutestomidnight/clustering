@@ -1,0 +1,8 @@
+{
+	"input_data" : "data.txt",
+	"output_data" : "res.txt",
+	"num_of_layers" : 3,
+	"r1" : 2,
+	"r2" : 10,
+	"r3" : 2.5
+}
